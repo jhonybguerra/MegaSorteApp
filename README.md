@@ -36,6 +36,7 @@ Ou faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>.
 - [Linguagem Kotlin](https://kotlinlang.org/)
 - Utilização de Buttons, EditTexts e TextViews
 - Utilização de SharedPreferences para salvar o último jogo realizado
+- Desenvolvimento de algoritmo para geração de números aleatórios, baseado na regras da Mega-Sena
 - Validação do input do usuário
 
 - Jetpack
